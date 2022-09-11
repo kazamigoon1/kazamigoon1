@@ -1,6 +1,6 @@
 # Jinsu(Jimmy) Heo
 
-![twitter](https://img.shields.io/twitter/url?url=http%3A%2F%2Ftwitter.com%2Fkazamigoon) ![linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&link=https://www.linkedin.com/in/jinsu-heo-388220a0/) ![facebook](https://img.shields.io/badge/-facebook-white?logo=facebook&link=https://www.facebook.com/JinSu.Heo0110)
+[![twitter](https://img.shields.io/badge/-Twitter-white?logo=twitter)](https://twitter.com/Kazamigoon) [![linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/jinsu-heo-388220a0/) [![facebook](https://img.shields.io/badge/-facebook-white?logo=facebook)](https://www.facebook.com/JinSu.Heo0110)
 
 ## 저는 이런 사람입니다.
 
